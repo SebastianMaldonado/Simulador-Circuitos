@@ -4,6 +4,7 @@
 |  Proyecto Independiente                                        |
 |                                                                |
 |  Desarrolladores:                                              |
+|                  - Yordi Gonzales                              |
 |                  - Juan David Maestre                          |
 |                  - Sebastián Maldonado                         |
 |                  - Jaime Vergara                               |
